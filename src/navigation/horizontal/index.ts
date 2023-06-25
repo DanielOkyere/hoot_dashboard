@@ -116,6 +116,7 @@ const navigation = (): HorizontalNavItemsType => {
         }
       ]
     },
+
     // {
     //   icon: 'tabler:color-swatch',
     //   title: 'UI',
